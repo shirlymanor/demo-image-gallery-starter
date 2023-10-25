@@ -7,9 +7,6 @@ const Footer = () => {
         <p className="text-center text-slate-400">
           Built by <a className="underline font-medium text-inherit" href="https://twitter.com/colbyfayock">Colby Fayock</a>
         </p>
-        <p>
-        <button id="upload_widget" class="cloudinary-button">Upload files</button>
-</p>
       </Container>
     </footer>
   );
