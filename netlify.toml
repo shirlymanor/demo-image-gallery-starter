@@ -3,3 +3,5 @@
  
   [plugins.inputs]
   deliveryType = "upload"
+   [plugins.inputs.maxSize]
+  width = 1200
