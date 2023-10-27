@@ -2,6 +2,6 @@
   package = "netlify-plugin-cloudinary"
  
   [plugins.inputs]
-  deliveryType = "upload"
+ # deliveryType = "upload"
    [plugins.inputs.maxSize]
   width = 1200
